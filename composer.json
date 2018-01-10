@@ -1,0 +1,19 @@
+{
+    "name": "multt/generators",
+    "description": "",
+    "type": "package",
+    "license": "none",
+    "authors": [
+        {
+            "name": "robin.wen",
+            "email": "robin.wen@acer.com"
+        }
+    ],
+    "require": {
+	},
+    "autoload": {
+        "psr-4": { 
+            "Multt\\Generators\\": "/src" 
+        }
+    }
+}
